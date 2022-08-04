@@ -17,9 +17,8 @@ Clone the repository and run `npm install` inside of its directory.
 
 ## Usage 
 
-Run `node index.js` and answer the series of prompts. The output will be outputed to `./dist/index.html`.
-A sample generated html is included.
-TODO LINK TO VIDEO.
+Run `node index.js` and answer the series of prompts. The output will be outputed to `./dist/index.html`. Watch the following [video](https://watch.screencastify.com/v/9B0vUhIasxxdzkDivEam) if needed.
+A sample generated html file is included.
 
 ## Questions
 
