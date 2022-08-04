@@ -23,7 +23,7 @@ const cardTemplate = (employee) => {
             "Office number: " + employee.getOfficeNumber())
         ||
         (employee instanceof Engineer &&
-            'GitHub: <a href="https://github.com/' + employee.getGithub() + '">' + employee.getGithub() + '</a>')
+            'GitHub: <a href="https://github.com/' + employee.getGithub() + '" target="_blank">' + employee.getGithub() + '</a>')
         ||
         (employee instanceof Intern &&
             'School: ' + employee.getSchool())}

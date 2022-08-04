@@ -58,7 +58,7 @@ test("validate making an engineer card", () => {
                 Email: <a href="mailto:blah@blah.com">blah@blah.com</a>
             </li>
             <li class="list-group-item">
-                GitHub: <a href="https://github.com/blah">blah</a>
+                GitHub: <a href="https://github.com/blah" target="_blank">blah</a>
             </li>
         </ul>
     </div>
@@ -137,7 +137,7 @@ test("validate making a list of cards", () => {
                 Email: <a href="mailto:blah@blah.com">blah@blah.com</a>
             </li>
             <li class="list-group-item">
-                GitHub: <a href="https://github.com/blah">blah</a>
+                GitHub: <a href="https://github.com/blah" target="_blank">blah</a>
             </li>
         </ul>
     </div>
